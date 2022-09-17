@@ -1,7 +1,7 @@
 
 # [Greater of Lesser](https://www.interviewbit.com/problems/greater-of-lesser/)
 
-### Level: <span style="color: green"> Very Easy </span>
+### Level: <font color="green"> Very Easy </font>
 
 ### Companies:  `Accenture`
 
