@@ -1,7 +1,7 @@
 
 # [Greater of Lesser](https://www.interviewbit.com/problems/greater-of-lesser/)
 
-### Level: <font color="green"> Very Easy </font>
+### Level: **Very Easy** <p style='color:red'>This is some red text.</p>
 
 ### Companies:  `Accenture`
 
