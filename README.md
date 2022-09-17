@@ -14,7 +14,7 @@ You can check the count of Topic wise questions solved in the table below
 
 | Topic Name| Number of Problems Solved| 
 |  :--------: |  :--------: | 
-| [Arrays](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Arrays)| 0| 
+| [Arrays](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Arrays)| 1| 
 | [Backtracking](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Backtracking)| 0| 
 | [Binary Search](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Binary%20Search)| 0| 
 | [Bit Manipulation](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Bit%20Manipulation)| 0| 
