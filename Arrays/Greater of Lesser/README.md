@@ -1,11 +1,7 @@
-```diff
--Code added
-+Code Updated
-```
 
 # [Greater of Lesser](https://www.interviewbit.com/problems/greater-of-lesser/)
 
-### Level: <span style="color: green"> Very Easy </span>
+### Level: **Very Easy**
 
 ### Companies:  `Accenture`
 
