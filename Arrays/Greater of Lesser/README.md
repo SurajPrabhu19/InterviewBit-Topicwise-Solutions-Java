@@ -1,7 +1,3 @@
-```diff
--Code added
-+Code Updated
-```
 
 # [Greater of Lesser](https://www.interviewbit.com/problems/greater-of-lesser/)
 
