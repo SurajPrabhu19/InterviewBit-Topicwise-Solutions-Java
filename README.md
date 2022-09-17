@@ -14,21 +14,21 @@ You can check the count of Topic wise questions solved in the table below
 
 | Topic Name| Number of Problems Solved| 
 |  :--------: |  :--------: | 
-| [Arrays](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Arrays)| 78| 
-| [Backtracking](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Backtracking)| 22| 
-| [Binary Search](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Binary%20Search)| 22| 
-| [Bit Manipulation](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Bit%20Manipulation)| 10| 
-| [Dynamic Programming](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Dynamic%20Programming)| 95| 
-| [Graphs](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Graphs)| 43| 
-| [Greedy](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Greedy)| 15| 
-| [Hashing](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Hashing)| 36| 
-| [Heaps And Maps](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Heaps%20and%20Maps)| 25| 
-| [Linked Lists](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Linked%20Lists)| 26| 
-| [Math](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Math)| 56| 
-| [Stacks And Queues](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Stacks%20and%20Queues)| 27| 
-| [Strings](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Strings)| 36|
-| [Trees](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Trees)| 66| 
-| [Two Pointers](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Two%20Pointers)| 26| 
+| [Arrays](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Arrays)| 0| 
+| [Backtracking](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Backtracking)| 0| 
+| [Binary Search](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Binary%20Search)| 0| 
+| [Bit Manipulation](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Bit%20Manipulation)| 0| 
+| [Dynamic Programming](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Dynamic%20Programming)| 0| 
+| [Graphs](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Graphs)| 0| 
+| [Greedy](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Greedy)| 0| 
+| [Hashing](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Hashing)| 0| 
+| [Heaps And Maps](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Heaps%20and%20Maps)| 0| 
+| [Linked Lists](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Linked%20Lists)| 0| 
+| [Math](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Math)| 0| 
+| [Stacks And Queues](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Stacks%20and%20Queues)| 0| 
+| [Strings](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Strings)| 0|
+| [Trees](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Trees)| 0| 
+| [Two Pointers](https://github.com/SurajPrabhu19/InterviewBit-Topicwise-Solutions-Java/tree/main/Two%20Pointers)| 0| 
 
 
 ## How to contribute?
